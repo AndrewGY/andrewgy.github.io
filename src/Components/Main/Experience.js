@@ -27,10 +27,10 @@ function Experience(){
                             </p>
                             <div className="flex-all-center-col">
                                 <p className="my-company-description">
-                                    CEO and Co-founder of Software Development startup. <br/> Based in the Caribbean, currently growing to enter the worldwide market.
+                                    Promoting data-driven decision making and the adoption of Artifical Intelligence into numerous industries within the Caribbean.
                                 </p>
                                 <a className="second-main-button" href="https://google.com" target="_blank">
-                                    Link
+                                    Learn more about us
                                 </a>
                             </div>
                         </div>

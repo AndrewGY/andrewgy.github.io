@@ -8,14 +8,15 @@ export const experience = [
         responsibilities:[
             {
                 id:0,
-                description:"",            },
+                description:"Researcher in the ICT4Development department of CARICOM HQ - intergovernmental organisation consisting of 15 countries.",            
+            },
             {
                 id:1,
-                description:"",
+                description:"Wrote numerous data-driven reports on topics related to technology in the region to facilitate improved decision-making by the department.",
             },
             {
                 id:2,
-                description:"",
+                description:"Created several application mockups and submitted critiques to revitalize the department's online presence.",
             },
         ],
     },
@@ -28,14 +29,11 @@ export const experience = [
         responsibilities:[
             {
                 id:0,
-                description:"",
+                description:"Functioned as a civilian employee (work bound by confidentiality agreements) in the Guyana Defence Force's Smart City Project during my final year of studies.",
             },
             {
                 id:1,
-                description:"",            },
-            {
-                id:2,
-                description:"",
+                description:"Completed several Big Data & IoT courses provided by Huawei",            
             },
         ],
     },
@@ -44,19 +42,15 @@ export const experience = [
         company:"Unity Guyana",
         startTime:"Sept, 2019",
         endTime:"Present",
-        role:"Vice-President",
+        role:"Co-Founder",
         responsibilities:[
             {
                 id:0,
-                description:"",
+                description:"Launched online platform that is being used to aid the professional advancement of youth in Guyana",
             },
             {
                 id:1,
-                description:"",
-            },
-            {
-                id:2,
-                description:"",
+                description:"Collaborated with local branch of UNICEF and the Civil Defence Commission",
             },
         ],
     },
@@ -64,20 +58,20 @@ export const experience = [
         id:3,
         company:"University of Guyana",
         startTime:"Nov. 2020",
-        endTime:"Nov. 2022",
+        endTime:"Present",
         role:"Software Engineer",
         responsibilities:[
             {
                 id:0,
-                description:"1",
+                description:"PHP Development of in‑house Student Record and Human Resource Management systems",
             },
             {
                 id:1,
-                description:"2",
+                description:"AWS Administration ‑ Experience with EC2, RDS, Cloudformation, IAM, Lambda",
             },
             {
                 id:2,
-                description:"3",
+                description:"Integrated in‑house information systems with Moodle Learning Management System, Examsoft, Unitime Timetabling software etc",
             },
         ],
     },
