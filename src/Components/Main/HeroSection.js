@@ -18,7 +18,7 @@ function HeroSection(){
                     <div className="col-lg-6 offset-lg-3">
                         <p className="second-hero-paragraph">
                             A 23-year-old Software Engineer from Georgetown, Guyana. <br/> I love the process of learning new technologies. I'm currently diving deeper into the world of Artificial Intelligence.
-                            <br/><br/>If you have any interesting projects (especially but not limited to any ICT4D related ones), please feel free to reach out to me via the link below.
+                            <br/><br/>If you have any interesting projects, please feel free to reach out to me via the link below.
                         </p>
                         <div className="flex-all-center">
                             <a href={`mailTo:${userEmail}`} className="second-main-button">
