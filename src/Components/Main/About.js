@@ -19,7 +19,7 @@ function About(){
                         </p>
                         <p className="second-about-text">
                             Lastly, in addition to the above, I work (now part-time) with the University of Guyana's Tactical Online Services unit as a Software Engineer.
-                            <br/><br/>To unwind after it all, I typically indulge in PC gaming and digital art as my preferred personal hobbies.
+                            <br/><br/>To unwind after it all, I typically indulge in PC gaming and <a href={"https://behance.net/andrewmgarnett"}>digital art</a> as my preferred personal hobbies.
                         </p>
                     </div>
                     <div className="col-lg-6">
