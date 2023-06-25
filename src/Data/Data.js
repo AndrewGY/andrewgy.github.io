@@ -42,7 +42,7 @@ export const experience = [
         company:"Unity Guyana",
         startTime:"Sept, 2019",
         endTime:"Present",
-        role:"Co-Founder",
+        role:"VP, Co-Founder",
         responsibilities:[
             {
                 id:0,
@@ -58,7 +58,7 @@ export const experience = [
         id:3,
         company:"University of Guyana",
         startTime:"Nov. 2020",
-        endTime:"Present",
+        endTime:"Dec 2022",
         role:"Software Engineer",
         responsibilities:[
             {
@@ -248,7 +248,7 @@ export const education = [
         name:"Heriot-Watt University",
         degree:"MSc Digital Leadership",
         startingFrom:"2022",
-        endingAt:"2024"
+        endingAt:"2025"
     },
     // {
     //     id:2,
@@ -261,5 +261,5 @@ export const education = [
 
 
 export const userEmail = "andrew.gy592@gmail.com"
-export const userLinkedin = "https://linkedin.com"
+export const userLinkedin = "https://www.linkedin.com/in/andrew-garnett-gy/"
 export const userGithub = "https://github.com/AndrewGY"
