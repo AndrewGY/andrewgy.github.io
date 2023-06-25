@@ -202,6 +202,35 @@ export const projects = [
             },
         ]
     },
+    {
+        id: 2,
+        projectName: "CuisineWhiz",
+        description: "CuisineWhiz is a compact project that suggests personalized recipes based on the user's dietary preferences and available ingredients. The system analyzes the user's input, such as dietary restrictions, preferred cuisines, and ingredients on hand, to generate recipe recommendations tailored to their specific needs.",
+        url: "",
+        github: "",
+        tech: [
+            {
+                id: 0,
+                techName: "Python"
+            },
+            {
+                id: 1,
+                techName: "Flask"
+            },
+            {
+                id: 2,
+                techName: "Pandas"
+            },
+            {
+                id: 3,
+                techName: "Scikit-learn"
+            },
+            {
+                id: 4,
+                techName: "Spoonacular API"
+            },
+        ]
+    },
     ]
 
 
