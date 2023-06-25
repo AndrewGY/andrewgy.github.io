@@ -15,11 +15,10 @@ function About(){
                     <div className="col-lg-6 flex-all-center-col">
                         <p className="second-about-text">
                             My primary focus at this point in time is furthering my studies. Currently, I'm a post-grad student at Edinburgh Business School pursuing my MSc.
-                            <br/><br/>I am also co-founder of two software startups: <a href={"https://frameperfectgy.com"}>FramePerfect</a> and <a href={"https://voxxil.gy"}>Voxxil</a> as well as Vice-President and co-founder of a Guyanese non-profit called <a href={"https://unitygy.com"}>Unity Guyana</a>.
+                            <br/><br/>I am also co-founder of two software startups: FramePerfect and <a href={"https://voxxil.gy"}>Voxxil</a> as well as Vice-President and co-founder of a Guyanese non-profit called <a href={"https://unitygy.com"}>Unity Guyana</a> that works to level the playing field in Guyana for the professional advancement of youth.
                         </p>
                         <p className="second-about-text">
-                            Lastly, in addition to the above, I work (now part-time) with the University of Guyana's Tactical Online Services unit as a Software Engineer.
-                            <br/><br/>To unwind after it all, I typically indulge in PC gaming and <a href={"https://behance.net/andrewmgarnett"}>digital art</a> as my preferred personal hobbies.
+                            To unwind, I typically indulge in PC gaming and <a href={"https://behance.net/andrewmgarnett"}>digital art</a> as my preferred personal hobbies.
                         </p>
                     </div>
                     <div className="col-lg-6">
