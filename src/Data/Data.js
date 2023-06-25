@@ -223,10 +223,6 @@ export const projects = [
             },
             {
                 id: 3,
-                techName: "Scikit-learn"
-            },
-            {
-                id: 4,
                 techName: "Spoonacular API"
             },
         ]
