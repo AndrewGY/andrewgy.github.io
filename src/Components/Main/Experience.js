@@ -20,16 +20,16 @@ function Experience(){
                                 <img src={process.env.PUBLIC_URL + '/img/logo.svg'} alt="hero" />
                             </div>
                             <h6 className="my-company-name">
-                                <a href={"https://frameperfectgy.com"}>FramePerfect</a>
+                                FramePerfect
                             </h6>
                             <p className="duration">
-                                2019 - Present
+                                2018 - Present
                             </p>
                             <div className="flex-all-center-col">
                                 <p className="my-company-description">
                                     Promoting data-driven decision making and the adoption of Artifical Intelligence into numerous industries within the Caribbean.
                                 </p>
-                                <a className="second-main-button" href="https://google.com" target="_blank">
+                                <a className="second-main-button" href="https://frameperfectgy.com" target="_blank">
                                     Learn more about us
                                 </a>
                             </div>
