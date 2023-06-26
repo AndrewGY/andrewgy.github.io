@@ -205,7 +205,7 @@ export const projects = [
     {
         id: 2,
         projectName: "CuisineWhiz",
-        description: "CuisineWhiz is a compact project that suggests personalized recipes based on the user's dietary preferences and available ingredients. The system analyzes the user's input, such as dietary restrictions, preferred cuisines, and ingredients on hand, to generate recipe recommendations tailored to their specific needs.",
+        description: "CuisineWhiz is a compact project that suggests personalized recipes based on the user's dietary preferences and available ingredients. The system analyzes the user's input, such as dietary restrictions, preferred cuisines and ingredients on hand, to generate tailored recipe recommendations.",
         url: "",
         github: "",
         tech: [
@@ -246,8 +246,8 @@ export const awards = [
     {
         id:2,
         awardName:"Guyana Innovation Prize",
-        rank:"Fellow",
-        description:"Selected as a fellow by the Guyana Economic Development Trust for the 2022 Guyana Innovation Prize."
+        rank:"Winner",
+        description:"Winner of the 2022/2023 Guyana Innovation Prize."
     }
 ]
 
