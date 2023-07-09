@@ -131,32 +131,6 @@ export const featured_projects = [
             }
         ]
     },
-    // {
-    //     id:2,
-    //     projectName:"Third Project",
-    //     description:"Custom wordpress theme built with Timber and Woocommerce for blistabloc, the only reactive shoe insert that prevents blisters from forming.",
-    //     url:"https://google.com",
-    //     github:"",
-    //     img:"project-img-1.png",
-    //     tech:[
-    //         {
-    //             id:0,
-    //             techName:"VS Code"
-    //         },
-    //         {
-    //             id:1,
-    //             techName:"JavaScript"
-    //         },
-    //         {
-    //             id:2,
-    //             techName:"TypeScript"
-    //         },
-    //         {
-    //             id:3,
-    //             techName:"XCode"
-    //         }
-    //     ]
-    // },
 ]
 
 export const projects = [
@@ -249,6 +223,12 @@ export const awards = [
         rank:"",
         description:"2018-2020"
     },
+    {
+        id:2,
+        awardName:"Guyana Innovation Prize",
+        rank:"Fellow",
+        description:"Selected as a fellow by the Guyana Economic Development Trust for the 2022 Guyana Innovation Prize."
+    }
 ]
 
 export const education = [
