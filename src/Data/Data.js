@@ -205,7 +205,7 @@ export const projects = [
     {
         id: 2,
         projectName: "CuisineWhiz",
-        description: "CuisineWhiz is a compact project that suggests personalized recipes based on the user's dietary preferences and available ingredients. The system analyzes the user's input, such as dietary restrictions, preferred cuisines, and ingredients on hand, to generate recipe recommendations tailored to their specific needs.",
+        description: "CuisineWhiz suggests personalized recipes based on the user's dietary preferences and available ingredients. The system analyzes the user's input, such as dietary restrictions, preferred cuisines and ingredients on hand to generate recipe recommendations tailored to their specific needs.",
         url: "",
         github: "",
         tech: [
@@ -223,10 +223,6 @@ export const projects = [
             },
             {
                 id: 3,
-                techName: "Scikit-learn"
-            },
-            {
-                id: 4,
                 techName: "Spoonacular API"
             },
         ]
@@ -237,22 +233,22 @@ export const projects = [
 export const awards = [
     {
         id:0,
+        awardName:"Guyana Innovation Prize",
+        rank:"Winner",
+        description:"Winner of the 2022/2023 Guyana Innovation Prize Award from the Guyana Economic Development Trust."
+    },
+    {
+        id:1,
         awardName:"Office of the Prime Minister Innovation Challenge 2020 (Guyana)",
         rank:"Runner Up",
         description:""
     },
     {
-        id:1,
+        id:2,
         awardName:"Dean's List / Honor's Roll",
         rank:"",
         description:"2018-2020"
     },
-    {
-        id:2,
-        awardName:"Guyana Innovation Prize",
-        rank:"Fellow",
-        description:"Selected as a fellow by the Guyana Economic Development Trust for the 2022 Guyana Innovation Prize."
-    }
 ]
 
 export const education = [
