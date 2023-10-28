@@ -253,7 +253,7 @@ export const education = [
         name:"Heriot-Watt University",
         degree:"MSc Digital Leadership",
         startingFrom:"2022",
-        endingAt:"2025"
+        endingAt:"2024"
     },
     // {
     //     id:2,
