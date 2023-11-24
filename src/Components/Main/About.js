@@ -12,15 +12,16 @@ function About(){
                     </div>
                 </div>
                 <div className="row" style={{marginTop:"50px"}}>
-                    <div className="col-lg-6 flex-all-center-col">
-                        <p className="second-about-text">
-                            My primary focus at this point in time is furthering my studies. Currently, I'm a post-grad student at Edinburgh Business School pursuing my MSc.
-                            <br/><br/>I otherwise spend time on my two software startups, FramePerfect and Voxxil in addition to serving as Vice-President and co-founder of a Guyanese non-profit called <a href={"https://unitygy.com"}>Unity Guyana</a> that works to level the playing field in Guyana for the professional advancement of youth.
-                        </p>
-                        <p className="second-about-text">
-                            To unwind, I indulge in PC gaming and <a href={"https://behance.net/andrewmgarnett"}>digital art</a> as my preferred personal hobbies.
-                        </p>
+                <div className="col-lg-6 flex-all-center-col">
+                    <p className="second-about-text">
+                        At the heart of my current journey is a dual focus: advancing my academic studies and creating impact in my home country of Guyana. I am currently building, <a href="https://voxxil.gy">Voxxil</a> and FramePerfect. In parallel, I dedicate myself to fostering positive social change as the Vice-President and co-founder of <a href="https://unitygy.com">Unity Guyana</a>, a non-profit organization committed to empowering Guyanese youth in their professional endeavors.
+                     </p>
+                     <p className="second-about-text">
+                        When it's time to recharge, I immerse myself in the worlds of PC gaming and explore my creativity through <a href="https://behance.net/andrewmgarnett">digital art</a>, my personal avenues for relaxation and self-expression.
+                     </p>
                     </div>
+                </div>
+
                     <div className="col-lg-6">
                         <div className="center-img">
                             <img style={{width:"100%"}} src={process.env.PUBLIC_URL + '/img/second-hero-img-2.png'} alt="about-img" />
