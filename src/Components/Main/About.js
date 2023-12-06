@@ -19,9 +19,7 @@ function About(){
                      <p className="second-about-text">
                         When it's time to recharge, I immerse myself in the worlds of PC gaming and explore my creativity through <a href="https://behance.net/andrewmgarnett">digital art</a>, my personal avenues for relaxation and self-expression.
                      </p>
-                    </div>
                 </div>
-
                     <div className="col-lg-6">
                         <div className="center-img">
                             <img style={{width:"100%"}} src={process.env.PUBLIC_URL + '/img/second-hero-img-2.png'} alt="about-img" />

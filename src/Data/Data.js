@@ -248,20 +248,13 @@ export const education = [
         startingFrom:"2018",
         endingAt:"2020"
     },
-    {
-        id:2,
-        name:"Heriot-Watt University",
-        degree:"MSc Digital Leadership",
-        startingFrom:"2022",
-        endingAt:"2024"
-    },
     // {
     //     id:2,
-    //     name:"University of London",
-    //     degree:"Bachelors in CS",
-    //     startingFrom:"2017",
-    //     endingAt:"2021"
-    // }
+    //     name:"Heriot-Watt University",
+    //     degree:"MSc Digital Leadership",
+    //     startingFrom:"2022",
+    //     endingAt:"2024"
+    // },
 ]
 
 
