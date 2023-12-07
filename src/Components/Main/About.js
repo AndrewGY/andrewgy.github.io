@@ -14,10 +14,10 @@ function About(){
                 <div className="row" style={{marginTop:"50px"}}>
                 <div className="col-lg-6 flex-all-center-col">
                     <p className="second-about-text">
-                        At the heart of my current journey is a dual focus: advancing my academic studies and creating impact in my home country of Guyana. I am currently building, <a href="https://voxxil.gy">Voxxil</a> and FramePerfect. In parallel, I dedicate myself to fostering positive social change as the Vice-President and co-founder of <a href="https://unitygy.com">Unity Guyana</a>, a non-profit organization committed to empowering Guyanese youth in their professional endeavors.
+                        My focuses at the moment are advancing my academic studies and creating impact in my home country of Guyana. I am currently building, <a href="https://voxxil.gy">Voxxil</a> and FramePerfect. In parallel, I dedicate myself to fostering positive social change as the Vice-President and co-founder of <a href="https://unitygy.com">Unity Guyana</a>, a non-profit organization committed to empowering Guyanese youth in their professional endeavors.
                      </p>
                      <p className="second-about-text">
-                        When it's time to recharge, I immerse myself in the worlds of PC gaming and explore my creativity through <a href="https://behance.net/andrewmgarnett">digital art</a>.
+                        When it's time to recharge, I typically engage in PC gaming and explore my creativity through <a href="https://behance.net/andrewmgarnett">digital art</a>.
                      </p>
                 </div>
                     <div className="col-lg-6">
