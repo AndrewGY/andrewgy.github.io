@@ -259,5 +259,5 @@ export const education = [
 
 
 export const userEmail = "andrew.gy592@gmail.com"
-export const userLinkedin = "https://www.linkedin.com/in/andrew-garnett-gy/"
+export const userLinkedin = "https://linkedin.com/in/andrew-garnett-gy/"
 export const userGithub = "https://github.com/AndrewGY"
