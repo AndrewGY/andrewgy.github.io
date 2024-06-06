@@ -107,27 +107,27 @@ export const featured_projects = [
     },
     {
         id:1,
-        projectName:"Electronic Voting dApp",
-        description:"Development of prototype for a decentralized application (dApp) that can facilitate e-voting. Ethereum Smart contact was implemented with Solidity",
-        url:"",
+        projectName:"Doctrina",
+        description:"Educational Technology Provider operating in the Caribbean",
+        url:"https://doctrinaedu.com",
         github:"",
         img:"project-img-2.png",
         tech:[
             {
                 id:0,
-                techName:"Solidity"
+                techName:"PHP"
             },
             {
                 id:1,
-                techName:"React"
+                techName:"Typescript"
             },
             {
                 id:2,
-                techName:"Metamask"
+                techName:"Moodle"
             },
             {
                 id:3,
-                techName:"Truffle"
+                techName:".Net Core"
             }
         ]
     },
@@ -157,6 +157,27 @@ export const projects = [
     },
     {
         id: 1,
+        projectName: "CareerForge",
+        description: "AI-powered Career Assistant.",
+        url: "https://careerforges.com",
+        github: "",
+        tech: [
+            {
+                id: 0,
+                techName: "Next.JS"
+            },
+            {
+                id: 1,
+                techName: "React"
+            },
+            {
+                id: 2,
+                techName: "Docker"
+            },
+        ]
+    },
+    {
+        id: 2,
         projectName: "Custom LMS Integration",
         description: "Microservice facilitating integration of the Moodle Learning Management System with a Student Record System.",
         url: "",
@@ -177,28 +198,29 @@ export const projects = [
         ]
     },
     {
-        id: 2,
-        projectName: "CuisineWhiz",
-        description: "CuisineWhiz suggests personalized recipes based on the user's dietary preferences and available ingredients. The system analyzes the user's input, such as dietary restrictions, preferred cuisines and ingredients on hand to generate recipe recommendations tailored to their specific needs.",
-        url: "",
-        github: "",
-        tech: [
+        id: 3,
+        projectName:"Electronic Voting dApp",
+        description:"Development of prototype for a decentralized application (dApp) that can facilitate e-voting. Ethereum Smart contact was implemented with Solidity",
+        url:"",
+        github:"",
+        img:"project-img-2.png",
+        tech:[
             {
-                id: 0,
-                techName: "Python"
+                id:0,
+                techName:"Solidity"
             },
             {
-                id: 1,
-                techName: "Flask"
+                id:1,
+                techName:"React"
             },
             {
-                id: 2,
-                techName: "Pandas"
+                id:2,
+                techName:"Metamask"
             },
             {
-                id: 3,
-                techName: "Spoonacular API"
-            },
+                id:3,
+                techName:"Truffle"
+            }
         ]
     },
     ]
