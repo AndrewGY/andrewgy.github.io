@@ -108,7 +108,7 @@ export const featured_projects = [
     {
         id:1,
         projectName:"Doctrina",
-        description:"Educational Technology Provider operating in the Caribbean",
+        description:"Educational Technology Provider operating in the Caribbean. Providing Managed Learning Management Hosting services as well as innovative solutions for low connectivity areas.",
         url:"https://doctrinaedu.com",
         github:"",
         img:"project-img-2.png",
@@ -127,7 +127,7 @@ export const featured_projects = [
             },
             {
                 id:3,
-                techName:".Net Core"
+                techName:"Java"
             }
         ]
     },
@@ -158,7 +158,7 @@ export const projects = [
     {
         id: 1,
         projectName: "CareerForge",
-        description: "AI-powered Career Assistant.",
+        description: "AI-powered Career Assistant with resume generation and optimization, cover letter assistance, interview preparation and automated job scraping among other features.",
         url: "https://careerforges.com",
         github: "",
         tech: [
@@ -173,6 +173,10 @@ export const projects = [
             {
                 id: 2,
                 techName: "Docker"
+            },
+            {
+                id: 3,
+                techName: "Playwright"
             },
         ]
     },
