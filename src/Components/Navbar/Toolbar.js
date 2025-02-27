@@ -14,10 +14,25 @@ const Toolbar = props => (
             <div className="toolbar-navigation-items">
                 <ul>
                     <li>
+                        <a href="#projects">
+                            Projects
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#awards">
+                            Awards
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://blog.andrewgy.com" target="_blank" rel="noopener noreferrer">
+                            Blog
+                        </a>
+                    </li>
+                    {/* <li>
                         <a href={process.env.PUBLIC_URL + '/resume/Resume.pdf'} target="_blank">
                             Resume
                         </a>
-                    </li>
+                    </li> */}
                 </ul>
             </div>
         </nav>

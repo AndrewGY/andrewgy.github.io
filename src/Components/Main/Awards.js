@@ -5,7 +5,7 @@ import {awards} from '../../Data/Data';
 
 function Awards(){
     return(
-        <section className="section-start">
+        <section id="awards" className="section-start">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
@@ -23,7 +23,7 @@ function Awards(){
                         <div className="grey-section featured-award-box">
                             <div className="flex-all-center-col">
                                 <p className="featured-award-info">
-                                    Winner of the inaugural Verizon 5G for Change Webby Hackathon in New York City.
+                                    Winner of the inaugural Verizon 5G for Change Webby Award in New York City against 149 other teams worldwide.
                                 </p>
                                 <a className="second-main-button" target="_blank" href="https://www.webbyawards.com/team-frameperfect-crowned-winner-5g-for-change-hackathon/">
                                     Learn More

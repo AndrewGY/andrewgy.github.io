@@ -7,14 +7,13 @@ import Footer from './Footer';
 import HeroSection from './HeroSection';
 import Projects from './Projects';
 
-
 function Main(){
     return(
         <React.Fragment>
             <HeroSection />
             <About />
             <Experience />
-            <Education />
+            {/* <Education /> */}
             <Awards />
             <Projects />
             <Footer />

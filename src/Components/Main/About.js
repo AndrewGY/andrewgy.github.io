@@ -14,11 +14,11 @@ function About(){
                 <div className="row" style={{marginTop:"50px"}}>
                 <div className="col-lg-6 flex-all-center-col">
                     <p className="second-about-text">
-                        My focuses at the moment are advancing my academic studies and creating impact in my home country of Guyana. I am currently building <a href="https://voxxil.gy">Voxxil</a> and <a href="https://frameperfectgy.com">FramePerfect</a>. In parallel, I dedicate myself to fostering positive social change as the Vice-President and co-founder of <a href="https://unitygy.com">Unity Guyana</a>, a non-profit organization committed to empowering Guyanese youth in their professional endeavors.
-                     </p>
-                     <p className="second-about-text">
-                        When it's time to recharge, I typically engage in PC gaming and explore my creativity through digital art.
-                     </p>
+                        Currently pursuing my graduate studies at Edinburgh Business School while working on projects that spark my interest. Building <a href="https://voxxil.gy">Voxxil</a> and <a href="https://frameperfectgy.com">FramePerfect</a>.
+                    </p>
+                    <p className="second-about-text">
+                        I believe in spending time on things that matter - whether that's learning something new, creating something meaningful, or simply enjoying the journey along the way.
+                    </p>
                 </div>
                     <div className="col-lg-6">
                         <div className="center-img">

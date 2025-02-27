@@ -8,7 +8,7 @@ function Projects(){
     const featured = featured_projects
     const normal_projects = projects;
     return(
-        <section className="section-start projects-section">
+        <section id="projects" className="section-start projects-section">
             <div className="container">
                 <div className="row">
                     <div className="col-12">

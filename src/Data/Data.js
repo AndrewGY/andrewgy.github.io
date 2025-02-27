@@ -41,7 +41,7 @@ export const experience = [
         id:2,
         company:"Unity Guyana",
         startTime:"Sept, 2019",
-        endTime:"Present",
+        endTime:"Dec 2022",
         role:"VP, Co-Founder",
         responsibilities:[
             {
@@ -72,6 +72,27 @@ export const experience = [
             {
                 id:2,
                 description:"Integrated in‑house information systems with Moodle Learning Management System, Examsoft, Unitime Timetabling software etc",
+            },
+        ],
+    },    
+    {
+        id:4,
+        company:"FAO - United Nations",
+        startTime:"Jan. 2025",
+        endTime:"Present",
+        role:"Data Scientist",
+        responsibilities:[
+            {
+                id:0,
+                description:"Implemented ML models for land use classification and change detection using satellite imagery",
+            },
+            {
+                id:1,
+                description:"Developed ETL pipelines and data workflows to process cadastral records, land titles and geospatial data for the project",
+            },
+            {
+                id:2,
+                description:"Development work on next-generation lease management system for public use, enabling streamlined property administration",
             },
         ],
     },
@@ -108,7 +129,7 @@ export const featured_projects = [
     {
         id:1,
         projectName:"Doctrina",
-        description:"Educational Technology Provider operating in the Caribbean. Providing Managed Learning Management Hosting services as well as innovative solutions for low connectivity areas.",
+        description:"Educational Technology Provider operating in the Caribbean to thousands of students. Providing Managed Learning Management Hosting services as well as innovative solutions for low connectivity areas.",
         url:"https://doctrinaedu.com",
         github:"",
         img:"project-img-2.png",
@@ -183,7 +204,7 @@ export const projects = [
     {
         id: 2,
         projectName: "Custom LMS Integration",
-        description: "Microservice facilitating integration of the Moodle Learning Management System with a Student Record System.",
+        description: "Microservice facilitating integration of the Moodle Learning Management System with a Student Record System for a technical institute based in Guyana.",
         url: "",
         github: "",
         tech: [
@@ -203,27 +224,76 @@ export const projects = [
     },
     {
         id: 3,
-        projectName:"Electronic Voting dApp",
-        description:"Development of prototype for a decentralized application (dApp) that can facilitate e-voting. Ethereum Smart contact was implemented with Solidity",
-        url:"",
-        github:"",
-        img:"project-img-2.png",
-        tech:[
+        projectName: "Lane Detection Model for Autonomous Vehicles",
+        description: "Development work on a specialized CNN architecture for robust lane detection in adverse weather conditions for a US-based startup. Details limited by NDA.",
+        url: "",
+        github: "",
+        img: "project-img-2.png",
+        tech: [
             {
-                id:0,
-                techName:"Solidity"
+                id: 0,
+                techName: "PyTorch"
             },
             {
-                id:1,
-                techName:"React"
+                id: 1,
+                techName: "OpenCV"
             },
             {
-                id:2,
-                techName:"Metamask"
+                id: 2,
+                techName: "TensorRT"
             },
             {
-                id:3,
-                techName:"Truffle"
+                id: 3,
+                techName: "CUDA"
+            },
+        ]
+    },    {
+        id: 4,
+        projectName: "Crime Map Guyana   -  (in progress)",
+        description: "Web application that scrapes crime data from news articles and visualizes it across Guyana to help identify high-risk areas and crime patterns.",
+        url: "",
+        github: "",
+        tech: [
+            {
+                id: 0,
+                techName: "Next.js"
+            },
+            {
+                id: 1,
+                techName: "Mapbox GL"
+            },
+            {
+                id: 2,
+                techName: "MongoDB",
+            },
+            {
+                id: 3,
+                techName: "Playwright"
+            }
+        ]
+    },
+    {
+        id: 5,
+        projectName: "HarvestBox",
+        description: "An AI-powered meal planning application that provides personalized recipe recommendations based on users' dietary preferences, nutritional goals, and ingredient availability. Similar to HelloFresh but with intelligent customization.",
+        url: "",
+        github: "",
+        tech: [
+            {
+                id: 0,
+                techName: "Angular"
+            },
+            {
+                id: 1,
+                techName: "Flask"
+            },
+            {
+                id: 2,
+                techName: "MongoDB"
+            },
+            {
+                id: 3,
+                techName: "OpenAI API"
             }
         ]
     },
@@ -239,18 +309,23 @@ export const awards = [
     },
     {
         id:1,
+        awardName:"Office of the Prime Minister Innovation Challenge 2022 (Guyana)",
+        rank:"Winner",
+        description:""
+    },    {
+        id:2,
         awardName:"Office of the Prime Minister Innovation Challenge 2020 (Guyana)",
         rank:"Runner Up",
         description:""
     },
     {
-        id:2,
+        id:3,
         awardName:"Dean's List / Honor's Roll",
         rank:"",
         description:"2018-2020"
     },
     {
-        id:2,
+        id:4,
         awardName:"Guyana Innovation Prize",
         rank:"Fellow",
         description:"Selected as a fellow by the Guyana Economic Development Trust for the 2022 Guyana Innovation Prize."
