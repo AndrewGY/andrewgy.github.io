@@ -100,13 +100,13 @@ function Footer(){
                 </div>
                 
                 {/* Feedback Form Section */}
-                <div className="row" style={{marginTop:"50px"}}>
+                {/* <div className="row" style={{marginTop:"50px"}}>
                     <div className="col-lg-12 col-md-12 col-sm-12">
                         <h3 className="section-heading-sm">Send Anonymous Feedback</h3>
                     </div>
-                </div>
+                </div> */}
                 
-                <div className="row">
+                {/* <div className="row">
                     <div className="col-lg-2 col-md-1 col-sm-0"></div>
                     <div className="col-lg-8 col-md-10 col-sm-12" style={{padding: "0 15px"}}>
                         {submitted ? (
@@ -185,9 +185,9 @@ function Footer(){
                                 </div>
                             </form>
                         )}
-                    </div>
-                    <div className="col-lg-2 col-md-1 col-sm-0"></div>
-                </div>
+                    </div> */}
+                    {/* <div className="col-lg-2 col-md-1 col-sm-0"></div> */}
+                {/* </div> */}
             </div>
         </footer>
     )
