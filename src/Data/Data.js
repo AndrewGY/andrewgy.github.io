@@ -249,26 +249,26 @@ export const projects = [
         ]
     },    {
         id: 4,
-        projectName: "Crime Map Guyana   -  (in progress)",
-        description: "Web application that scrapes crime data from news articles and visualizes it across Guyana to help identify high-risk areas and crime patterns.",
+        projectName: "Minerva",
+        description: "An AI-powered Health, Safety, Security and Environment (HSSE) monitoring system that uses a YOLO-based computer vision model to analyze video feeds in real-time for safety violations, automatically reporting incidents for further investigation.",
         url: "",
         github: "",
         tech: [
             {
                 id: 0,
-                techName: "Next.js"
+                techName: "YOLO"
             },
             {
                 id: 1,
-                techName: "Mapbox GL"
+                techName: "OpenCV"
             },
             {
                 id: 2,
-                techName: "MongoDB",
+                techName: "Next.js"
             },
             {
                 id: 3,
-                techName: "Playwright"
+                techName: "Flask"
             }
         ]
     },
@@ -303,29 +303,36 @@ export const projects = [
 export const awards = [
     {
         id:0,
-        awardName:"Guyana Innovation Prize",
+        awardName:"Office of the Prime Minister x SBM Offshore Innovation Challenge 2025 (Guyana)",
         rank:"Winner",
-        description:"Winner of the 2022/2023 Guyana Innovation Prize Award from the Guyana Economic Development Trust."
+        description:"HSSE System for SBM Offshore"
     },
     {
         id:1,
+        awardName:"Guyana Innovation Prize",
+        rank:"Winner",
+        description:"Winner of the 2022/2023 Guyana Innovation Prize Award from the Guyana Economic Development Trust for work with AI in Medicine."
+    },
+    {
+        id:2,
         awardName:"Office of the Prime Minister Innovation Challenge 2022 (Guyana)",
         rank:"Winner",
-        description:""
-    },    {
-        id:2,
-        awardName:"Office of the Prime Minister Innovation Challenge 2020 (Guyana)",
-        rank:"Runner Up",
-        description:""
+        description:"Environmental Simulation Model"
     },
     {
         id:3,
+        awardName:"Office of the Prime Minister Innovation Challenge 2020 (Guyana)",
+        rank:"Runner Up",
+        description:"Learning Management System for National Schools"
+    },
+    {
+        id:4,
         awardName:"Dean's List / Honor's Roll",
         rank:"",
         description:"2018-2020"
     },
     {
-        id:4,
+        id:5,
         awardName:"Guyana Innovation Prize",
         rank:"Fellow",
         description:"Selected as a fellow by the Guyana Economic Development Trust for the 2022 Guyana Innovation Prize."
