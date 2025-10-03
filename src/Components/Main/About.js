@@ -14,7 +14,7 @@ function About(){
                 <div className="row" style={{marginTop:"50px"}}>
                 <div className="col-lg-6 flex-all-center-col">
                     <p className="second-about-text">
-                        Currently pursuing my graduate studies at Edinburgh Business School while working on projects that spark my interest. Building <a href="https://voxxil.gy">Voxxil</a> and <a href="https://frameperfectgy.com">FramePerfect</a>.
+                        Recently completed my graduate studies at Edinburgh Business School and now focusing on projects that spark my interest. Building <a href="https://voxxil.gy">Voxxil</a> and <a href="https://frameperfectgy.com">FramePerfect</a>.
                     </p>
                     <p className="second-about-text">
                         I believe in spending time on things that matter - whether that's learning something new, creating something meaningful, or simply enjoying the journey along the way.
