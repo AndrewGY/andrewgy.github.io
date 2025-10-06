@@ -176,33 +176,33 @@ export const projects = [
             },
         ]
     },
+    // {
+    //     id: 1,
+    //     projectName: "CareerForge",
+    //     description: "AI-powered Career Assistant with resume generation and optimization, cover letter assistance, interview preparation and automated job scraping among other features.",
+    //     url: "https://careerforges.com",
+    //     github: "",
+    //     tech: [
+    //         {
+    //             id: 0,
+    //             techName: "Next.JS"
+    //         },
+    //         {
+    //             id: 1,
+    //             techName: "React"
+    //         },
+    //         {
+    //             id: 2,
+    //             techName: "Docker"
+    //         },
+    //         {
+    //             id: 3,
+    //             techName: "Playwright"
+    //         },
+    //     ]
+    // },
     {
         id: 1,
-        projectName: "CareerForge",
-        description: "AI-powered Career Assistant with resume generation and optimization, cover letter assistance, interview preparation and automated job scraping among other features.",
-        url: "https://careerforges.com",
-        github: "",
-        tech: [
-            {
-                id: 0,
-                techName: "Next.JS"
-            },
-            {
-                id: 1,
-                techName: "React"
-            },
-            {
-                id: 2,
-                techName: "Docker"
-            },
-            {
-                id: 3,
-                techName: "Playwright"
-            },
-        ]
-    },
-    {
-        id: 2,
         projectName: "Custom LMS Integration",
         description: "Microservice facilitating integration of the Moodle Learning Management System with a Student Record System for a technical institute based in Guyana.",
         url: "",
@@ -223,7 +223,7 @@ export const projects = [
         ]
     },
     {
-        id: 3,
+        id: 2,
         projectName: "Lane Detection Model for Autonomous Vehicles",
         description: "Development work on a specialized CNN architecture for robust lane detection in adverse weather conditions for a US-based startup. Details limited by NDA.",
         url: "",
@@ -248,7 +248,7 @@ export const projects = [
             },
         ]
     },    {
-        id: 4,
+        id: 3,
         projectName: "Minerva",
         description: "An AI-powered Health, Safety, Security and Environment (HSSE) monitoring system that uses a YOLO-based computer vision model to analyze video feeds in real-time for safety violations, automatically reporting incidents for further investigation.",
         url: "",
@@ -273,7 +273,7 @@ export const projects = [
         ]
     },
     {
-        id: 5,
+        id: 4,
         projectName: "HarvestBox",
         description: "An AI-powered meal planning application that provides personalized recipe recommendations based on users' dietary preferences, nutritional goals, and ingredient availability. Similar to HelloFresh but with intelligent customization.",
         url: "",
