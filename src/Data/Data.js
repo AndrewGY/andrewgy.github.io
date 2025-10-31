@@ -80,19 +80,19 @@ export const experience = [
         company:"FAO - United Nations",
         startTime:"Jan. 2025",
         endTime:"Present",
-        role:"Data Scientist",
+        role:"Data Engineering Consultant",
         responsibilities:[
             {
                 id:0,
-                description:"Implemented ML models for land use classification and change detection using satellite imagery",
+                description:"Development of geospatial services for the Lease Management System, including custom map services and spatial queries using PostGIS and OpenLayers.",
             },
             {
                 id:1,
-                description:"Developed ETL pipelines and data workflows to process cadastral records, land titles and geospatial data for the project",
+                description:"Developed ETL pipelines and data workflows to process historic and current cadastral records, land titles and geospatial data for the project",
             },
             {
                 id:2,
-                description:"Development work on next-generation lease management system for public use, enabling streamlined property administration",
+                description:"Full-stack development work on the Next-Generation Lease Management System and Legal Case Management System for land disputes using React/Next.js, Flask, PostgreSQL and PostGIS.",
             },
         ],
     },
